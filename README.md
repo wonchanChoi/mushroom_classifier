@@ -11,5 +11,7 @@
 
 #### 파일설명
 #### - Augmentation.ipynb : 데이터 증강을 위한 코드
-##### 주의) 데이터 증강시 많은 자원을 사용하기 때문에 데이터 셋 하나씩 진행
 
+#### - mushroom_classifier.ipynb : 모델 생성을 위한 학습
+
+#### - prediction.ipynb  : 학습된 모델을 통해 결과값 예측
